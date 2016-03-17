@@ -1,4 +1,6 @@
-;;; grails-projectile-mode.el --- Grails mode with Projectile for projects management.
+;;; package --- grails-projectile-mode.el
+;;; Commentary:
+;;; Grails mode with Projectile for projects management.
 
 ;; Copyright (C) 2013-2015 Rimero Solutions
 

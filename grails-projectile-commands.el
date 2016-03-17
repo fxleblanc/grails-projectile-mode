@@ -1,4 +1,6 @@
-;;; grails-projectile-commands.el --- Functions and commands for Grails Projectile.
+;;; package --- grails-projectile-commands.el
+;;; Commentary:
+;;; Functions and commands for Grails Projectile.
 
 ;; Copyright (C) 2013-2015 Rimero Solutions
 

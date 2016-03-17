@@ -1,4 +1,6 @@
-;;; grails-projectile-config.el --- Configuration for Grails Projectile.
+;;; package --- grails-projectile-config.el
+;;; Commentary:
+;;; Configuration for Grails Projectile.
 
 ;; Copyright (C) 2013-2015 Rimero Solutions
 

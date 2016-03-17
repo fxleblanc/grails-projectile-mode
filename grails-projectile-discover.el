@@ -1,4 +1,6 @@
-;;; grails-projectile-discover.el --- discover.el support for Grails Projectile.
+;;; package --- grails-projectile-discover.el
+;;; Commentary:
+;;; discover.el support for Grails Projectile.
 
 ;; Copyright (C) 2013-2015 Rimero Solutions
 
